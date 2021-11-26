@@ -5,14 +5,14 @@
 |                   |Youtube Channel: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw                           |                 |
 |                   |                                                                                                    |                 |
 |Topic:             |Problem:                                                                                            |Done [yes or no] |
-|                   |                                                                                                    |<->              |
-|Array              |Reverse the array                                                                                   |<->              |
-|Array              |Find the maximum and minimum element in an array                                                    |<->              |
-|Array              |Find the "Kth" max and min element of an array                                                      |<->              |
-|Array              |Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo     |<->              |
-|Array              |Move all the negative elements to one side of the array                                             |<->              |
-|Array              |Find the Union and Intersection of the two sorted arrays.                                           |<->              |
-|Array              |Write a program to cyclically rotate an array by one.                                               |<->              |
+|                   |                                                                                                    |.                |
+|Array              |Reverse the array                                                                                   |Yes              |
+|Array              |Find the maximum and minimum element in an array                                                    |Yes              |
+|Array              |Find the "Kth" max and min element of an array                                                      |Yes              |
+|Array              |Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo     |Yes              |
+|Array              |Move all the negative elements to one side of the array                                             |Yes              |
+|Array              |Find the Union and Intersection of the two sorted arrays.                                           |Yes              |
+|Array              |Write a program to cyclically rotate an array by one.                                               |Yes              |
 |Array              |find Largest sum contiguous Subarray [V. IMP]                                                       |<->              |
 |Array              |Minimise the maximum difference between heights [V.IMP]                                             |<->              |
 |Array              |Minimum no. of Jumps to reach end of an array                                                       |<->              |
@@ -27,7 +27,7 @@
 |Array              |find common elements In 3 sorted arrays                                                             |<->              |
 |Array              |Rearrange the array in alternating positive and negative items with O(1) extra space                |<->              |
 |Array              |Find if there is any subarray with sum equal to 0                                                   |<->              |
-|Array              |Find factorial of a large number                                                                    |<->              |
+|Array              |Find factorial of a large number                                                                    |Yes              |
 |Array              |find maximum product subarray                                                                       |<->              |
 |Array              |Find longest coinsecutive subsequence                                                               |<->              |
 |Array              |Given an array of size n and a number k, fin all elements that appear more than " n/k " times.      |<->              |
@@ -56,13 +56,13 @@
 |Matrix             |Common elements in all rows of a given matrix                                                       |<->              |
 |                   |                                                                                                    |                 |
 |                   |                                                                                                    |                 |
-|String             |Reverse a String                                                                                    |<->              |
-|String             |Check whether a String is Palindrome or not                                                         |<->              |
+|String             |Reverse a String                                                                                    |Yes              |
+|String             |Check whether a String is Palindrome or not                                                         |Yes              |
 |String             |Find Duplicate characters in a string                                                               |<->              |
-|String             |Why strings are immutable in Java?                                                                  |<->              |
+|String             |Why strings are immutable in Java?                                                                  |Yes              |
 |String             |Write a Code to check whether one string is a rotation of another                                   |<->              |
 |String             |Write a Program to check whether a string is a valid shuffle of two strings or not                  |<->              |
-|String             |Count and Say problem                                                                               |<->              |
+|String             |Count and Say problem                                                                               |Yes              |
 |String             |Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]         |<->              |
 |String             |Find Longest Recurring Subsequence in String                                                        |<->              |
 |String             |Print all Subsequences of a string.                                                                 |<->              |
@@ -71,8 +71,8 @@
 |String             |Word Wrap Problem [VERY IMP].                                                                       |<->              |
 |String             |EDIT Distance [Very Imp]                                                                            |<->              |
 |String             |Find next greater number with same set of digits. [Very Very IMP]                                   |<->              |
-|String             |Balanced Parenthesis problem.[Imp]                                                                  |<->              |
-|String             |Word break Problem[ Very Imp]                                                                       |<->              |
+|String             |Balanced Parenthesis problem.[Imp]                                                                  |Yes              |
+|String             |Word break Problem[ Very Imp]                                                                       |Yes              |
 |String             |Rabin Karp Algo                                                                                     |<->              |
 |String             |KMP Algo                                                                                            |<->              |
 |String             |Convert a Sentence into its equivalent mobile numeric keypad sequence.                              |<->              |
@@ -296,15 +296,15 @@
 |BackTracking       |Find the K-th Permutation Sequence of first N natural numbers                                       |<->              |
 |                   |                                                                                                    |                 |
 |                   |                                                                                                    |                 |
-|Stacks & Queues    | Implement Stack from Scratch                                                                       |<->              |
-|Stacks & Queues    | Implement Queue from Scratch                                                                       |<->              |
+|Stacks & Queues    | Implement Stack from Scratch                                                                       |Yes              |
+|Stacks & Queues    | Implement Queue from Scratch                                                                       |Yes              |
 |Stacks & Queues    |Implement 2 stack in an array                                                                       |<->              |
 |Stacks & Queues    |find the middle element of a stack                                                                  |<->              |
 |Stacks & Queues    |Implement "N" stacks in an Array                                                                    |<->              |
 |Stacks & Queues    |Check the expression has valid or Balanced parenthesis or not.                                      |<->              |
-|Stacks & Queues    |Reverse a String using Stack                                                                        |<->              |
+|Stacks & Queues    |Reverse a String using Stack                                                                        |Yes              |
 |Stacks & Queues    |Design a Stack that supports getMin() in O(1) time and O(1) extra space.                            |<->              |
-|Stacks & Queues    |Find the next Greater element                                                                       |<->              |
+|Stacks & Queues    |Find the next Greater element                                                                       |Yes              |
 |Stacks & Queues    |The celebrity Problem                                                                               |<->              |
 |Stacks & Queues    |Arithmetic Expression evaluation                                                                    |<->              |
 |Stacks & Queues    |Evaluation of Postfix expression                                                                    |<->              |
